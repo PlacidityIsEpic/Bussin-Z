@@ -1,2 +1,5 @@
 lit bool be fake rn // use fake instead of cap
-lit bool be real rn // use real instead of nocap
+lit bool1 be real rn // use real instead of nocap
+waffle(bool)
+
+mf constant be 'skibidi' rn // same thing
